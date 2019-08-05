@@ -1,3 +1,10 @@
+깃허브 테스트 주소
+https://github.com/PigTurtle/my.gitTest.git
+
+깃 허브 버전관리 및 사용법
+https://www.youtube.com/watch?v=tC8Xj_Bf8Fw
+
+
 gitTest
 
 1. gitbash 설치

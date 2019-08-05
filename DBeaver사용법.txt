@@ -1,3 +1,8 @@
+DB 툴 개발환경 구성 및 기본 사용법
+https://miniweb4u.tistory.com/225
+https://wingsnote.com/125
+
+
 파일 - new 클릭
 
 DBeaver의 Database Connection 선택
